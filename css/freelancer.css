@@ -461,3 +461,18 @@ footer .footer-below {
 .navbar-fixed-top {
     background-color: #000066;
 }
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #000066;
+    color: #FF0000;
+}
+
+.navbar-default .navbar-header > li > a:hover, .navbar-default .navbar-header > li > a:focus {
+    background-color: #000066;
+    color: #FF0000;
+}
+
+.portfolio-modal > li > a:hover, .close-modal:hover > li > a:focus {
+    color: #FF0000;
+}
