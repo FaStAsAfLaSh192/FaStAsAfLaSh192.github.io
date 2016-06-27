@@ -473,6 +473,3 @@ footer .footer-below {
     color: #FF0000;
 }
 
-.portfolio-modal > li > a:hover, .close-modal:hover > li > a:focus {
-    color: #FF0000;
-}
