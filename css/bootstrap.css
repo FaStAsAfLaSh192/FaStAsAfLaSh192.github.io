@@ -1292,6 +1292,7 @@ h6,
 }
 p {
   margin: 0 0 10.5px;
+  color: #000000
 }
 .lead {
   margin-bottom: 21px;
@@ -1435,6 +1436,7 @@ ol ol {
   padding-left: 0;
   list-style: none;
   margin-left: -5px;
+  color: #000000;
 }
 .list-inline > li {
   display: inline-block;
